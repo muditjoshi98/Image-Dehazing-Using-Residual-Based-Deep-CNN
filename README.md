@@ -45,22 +45,25 @@ Testing involves the creation of the network model from the image size and then 
 
 **Outdoor**
 
-| **Input** | **Output** | **Input** | **Output** |
-|:---:|:---:|:---:|:---:|
-| ![](Results/other/canon.jpg) | ![](Results/other/canon2.png) | ![](Results/out/16.jpg) | ![](Results/out/16_dehaze.jpg) |
+| **Input** | **Output** |
+|:---:|:---:|
+| ![](Results/other/canon.jpg) | ![](Results/other/canon2.png) |
+| ![](Results/out/16.jpg) | ![](Results/out/16_dehaze.jpg) |
 
 **Indoor**
 
-| **Input** | **Output** | **Input** | **Output** |
-|:---:|:---:|:---:|:---:|
-| ![](Results/in/1.jpg) | ![](Results/in/1_dehaze.jpg) | ![](Results/in/3.jpg) | ![](Results/in/3_dehaze.jpg) |
+| **Input** | **Output** |
+|:---:|:---:|
+| ![](Results/in/1.jpg) | ![](Results/in/1_dehaze.jpg) |
+| ![](Results/in/3.jpg) | ![](Results/in/3_dehaze.jpg) |
 
 **For some images result were not as good**
 
-| ![](Results/out/0.jpg) | ![](Results/out/0_dehaze.jpg) | ![](Results/out/14.jpg) | ![](Results/out/14_dehaze.jpg) |
-|:---:|:---:|:---:|:---:|
-| ![](Results/in/8.jpg) | ![](Results/in/8_dehaze.jpg) | ![](Results/in/7.jpg) | ![](Results/in/7_dehaze.jpg) |
-|:---:|:---:|:---:|:---:|
+| ![](Results/out/0.jpg) | ![](Results/out/0_dehaze.jpg) |
+|:---:|:---:|
+| ![](Results/out/14.jpg) | ![](Results/out/14_dehaze.jpg) |
+| ![](Results/in/8.jpg) | ![](Results/in/8_dehaze.jpg) |
+| ![](Results/in/7.jpg) | ![](Results/in/7_dehaze.jpg) |
 
 
 
