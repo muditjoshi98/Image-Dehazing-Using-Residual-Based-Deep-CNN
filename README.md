@@ -1,1 +1,1 @@
-# muditjoshi98-Image-dehazing-using-Residual-NN
+# Image-dehazing-using-Residual-NN
